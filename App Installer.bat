@@ -90,6 +90,7 @@ goto app
 choco install firefox 
 goto app
 
+:viv
 choco install Vivaldi
 goto app
 
